@@ -1,0 +1,6 @@
+Driver: Ram | Vehicle: Car | Rating: 4.5 | Distance: 12 km | Fare: Rs. 300
+Driver: Sita | Vehicle: Bike | Rating: 5 | Distance: 8 km | Fare: Rs. 105
+Driver: Hari | Vehicle: Car | Rating: 4 | Distance: 5.5 km | Fare: Rs. 170
+Driver: Gita | Vehicle: Bike | Rating: 3.5 | Distance: 3 km | Fare: Rs. 55
+Driver: Ram | Vehicle: Bike | Rating: 4 | Distance: 10 km | Fare: Rs. 125
+Driver: ABC | Vehicle: Car | Rating: 3 | Distance: 5 km | Fare: Rs. 160

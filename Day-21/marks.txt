@@ -1,0 +1,3 @@
+Ram,80
+Sita,92
+Hari,75
